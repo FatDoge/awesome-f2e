@@ -13,10 +13,20 @@
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script>
     window.$docsify = {
-      search: [
-        '/',            // => /README.md
-        '/_fatdoge',       // => /guide.md
-      ],
+       // 完整配置参数
+      search: {
+        maxAge: 400, // 过期时间，单位毫秒，默认一天
+        paths: [], // or 'auto'
+        placeholder: {
+          '/': '搜索',
+        },
+        noData: {
+          '/': '找不到结果',
+        },
+
+        // 搜索标题的最大程级, 1 - 6
+        depth: 6
+      },
       name: 'Awesome-f2e',
       repo: 'https://github.com/fatdoge/awesome-f2e',
       loadSidebar: true,
