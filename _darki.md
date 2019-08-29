@@ -1,3 +1,5 @@
+## 2019/8/29
+- [git简易指南](https://www.bootcss.com/p/git-guide/?tdsourcetag=s_pctim_aiomsg)
 ## 2019/8/5
 - [移动端适配你需要了解的那点事](https://juejin.im/post/5d395a6a6fb9a07eb94fcf21)
 - [代码整洁之道(JS版本)](https://www.zcfy.cc/article/clean-code-javascript-readme-md-at-master-ryanmcdermott-clean-code-javascript-github-2273.html#introduction?tdsourcetag=s_pctim_aiomsg)  **`必读!`**
