@@ -10,6 +10,7 @@
 ## 2019/8/28
 - 私有npm解决方案 https://github.com/verdaccio/verdaccio
 - 代码部署平台 https://github.com/meolu/walle-web
+ <!--lang: mermaid-->
 ```
 graph LR
 a(开发服务器)--apply-->c(NPM服务器)
